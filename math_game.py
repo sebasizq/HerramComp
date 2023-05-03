@@ -36,6 +36,9 @@ def mult(num_1,num_2):
     resultm=num_1*num_2
     print(num_1,"*",num_2,"is equal to ", resultm)
     
+    
+print('Esto es un cambio PR')
+    
             
 #operation=input("ingrese S, si quiere suma, D, si quiere división, S, si quiere sumar, R, si quiere restar, M si quiere multiplicar:")
 #num_1=float(input("ingrese un número:"))
