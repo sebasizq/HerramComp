@@ -1,4 +1,3 @@
-print('Cambio hecho por Joshua Mendez')
 #math_game.py
 #def add(num_1, num_2,operation):
 #    if operation=="s" or operation=="S":
@@ -16,7 +15,7 @@ print('Cambio hecho por Joshua Mendez')
 #    if operation=="M" or operation=="m":
 #        resultm=num_1*num_2
 #        print(num_1,"*",num_2,"is equal to ", resultm)
-    
+
             
 #operation=input("ingrese S, si quiere suma, D, si quiere división, S, si quiere sumar, R, si quiere restar, M si quiere multiplicar:")
 #num_1=float(input("ingrese un número:"))
